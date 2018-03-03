@@ -1,5 +1,5 @@
 # Example Questions
 
-[Back](../)
+[Table of Contents](../)
 
 ------
