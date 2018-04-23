@@ -7,7 +7,7 @@
 ## Content
 
 1. **[M2 Certified Professional Developer](./developer)**
-2. **[M2 Certified Associate Developer](./associate-developer)**
+2. **[M2 Certified Associate Developer](./associate_developer)**
 3. **M2 Certified Solution Specialist**
 
 
@@ -42,10 +42,10 @@ The **[Magento 2 Certified Professional Developer](https://u.magento.com/magento
 
 --------
 
-## 2. [M2 Certified Associate Developer](./associate-developer)
+## 2. [M2 Certified Associate Developer](./associate_developer)
 
 
-**Start Here:** [Study Guide Table of Contents](./associate-developer)
+**Start Here:** [Study Guide Table of Contents](./associate_developer)
 
 https://u.magento.com/magento-2-certified-associate-developer-exam
 
