@@ -8,7 +8,8 @@
 
 1. **[M2 Certified Professional Developer](./developer)**
 2. **[M2 Certified Associate Developer](./associate_developer)**
-3. **M2 Certified Solution Specialist**
+3. **[M2 Certified Professional Front End Developer](./frontend_developer)**
+4. **M2 Certified Solution Specialist**
 
 
 -----
@@ -71,12 +72,45 @@ The [Magento 2 Certified Associate Developer](https://u.magento.com/magento-2-ce
 
 
 
+------
+
+## 3. [M2 Certified Professional Front End Developer](./frontend_developer)
+
+
+**Start Here:** [Study Guide Table of Contents](./frontend_developer)
+
+https://u.magento.com/magento-2-certified-professional-front-end-developer
+
+**Magento 2 Certified Professional Front End Developer Overview**
+
+The [Magento 2 Certified Professional Front End Developer exam](https://u.magento.com/magento-2-certified-professional-front-end-developer), a primarily scenario-based exam, is designed to validate the skills and knowledge needed to understand Magento's theming components and the ability to modify the user interface according to best practices.
+
+A Magento 2 Front End Developer creates and customizes Magento themes including: templates, layouts, CSS, JavaScript, and other components of the front end, including translations, of a Magento site. A Magento 2 Front End Developer uses the Admin Panel to implement design-related system configuration and modify the appearance of specific pages.
+
+This exam is for a Magento 2 Front End Developer with a deep understanding of Magento 2 fundamentals and with 1.5 years or more of experience with Magento 2.
+
+**ABOUT THE EXAM**
+
+* **60** Multiple Choice items
+* **90** minutes to complete the exam
+* Score of **63% or higher** needed to pass
+* Based on **Magento Open Source (2.2) and Magento Commerce (2.2)**, but applicable to those using any version of Magento 2.
+* No hard-copy or online materials may be referenced during the exam
+
+**PREREQUISITES AND RESOURCES**
+
+* No prerequisites
+* We recommend taking the Core Principles for Theming in Magento 2 course as a first step
+* 1.5 or more years of hands-on experience with Magento 2 front end development
+* [Free Study Guide available](https://u.magento.com/free-study-guide)
+
+
 
 -----
 
-## 3. M2 Certified Solutions Specialist
+## 4. M2 Certified Solutions Specialist
 
-**Coming Soon**
+
 
 
 ------
