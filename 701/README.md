@@ -1,4 +1,4 @@
-# AD0-E701 Adobe Certified Expert-Magento Commerce Front-End Developer
+# AD0-E701 Adobe Certified Expert Magento Commerce Front-End Developer
 
 [Back](../) | [Introduction](./introduction.md)
 

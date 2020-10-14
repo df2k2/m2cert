@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 [Table of Contents](./) | [Exam Objectives and Scope](./content.md)
 
@@ -19,9 +19,6 @@ This exam will validate the skills and knowledge needed to design and manage a M
 
 [Exam objectives and scope](./content.md)
 
-[Online sample test](#)
-
-[Preparing for the exam](#)
 
 ## Intended Audience
 

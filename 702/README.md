@@ -1,4 +1,4 @@
-# AD0-E702 Adobe Certified Professional—Magento Commerce Developer
+# AD0-E702 Adobe Certified Professional Magento Commerce Developer
 
 [Back](../) | [Introduction](./introduction.md)
 
