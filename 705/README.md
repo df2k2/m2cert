@@ -10,6 +10,10 @@
 ## [Exam Objectives and Scope](./content.md)
 
 
+
+## [Practice Questions](./q.md)
+## [Practice Question Solutions](./a.md)
+
 -----
 
 

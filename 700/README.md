@@ -9,6 +9,14 @@
 
 ## [Exam Objectives and Scope](./content.md)
 
+### [Section 1: eCommerce (13%)](./1.md)
+### [Section 2: Magento Architecture (22%)](./2.md)
+### [Section 3: Magento Admin and Storefront (30%)](./3.md)
+### [Section 4: Business and Applications (13%)](./4.md)
+### [Section 5: Catalog (22%)](./5.md)
+
+## [Practice Questions](./q.md)
+## [Practice Question Solutions](./a.md)
 
 -----
 

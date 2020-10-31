@@ -31,17 +31,27 @@ This exam is based on Magento Commerce v2.3
 ## Exam Information
 
 
-    Exam number: AD0-E704
-    Exam name:Adobe Certified Master Magento Commerce Architect
-    Certificate level: Certified Master
-    Status: Active
-    Available languages: English
-    Number of questions: 60
-    Formats: Multiple choice
-    Duration: 120 minutes
-    Delivery: Onsite/Online proctored (requires camera access) or test center proctored
-    Passing mark: 62%
-    Price: $395 USD
+**Exam number:** AD0-E704
+
+**Exam name:**Adobe Certified Master Magento Commerce Architect
+
+**Certificate level:** Certified Master
+
+**Status:** Active
+
+**Available languages:** English
+
+**Number of questions:** 60
+
+**Formats:** Multiple choice
+
+**Duration:** 120 minutes
+
+**Delivery:** Onsite/Online proctored (requires camera access) or test center proctored
+
+**Passing mark:** 62%
+
+**Price:** $395 USD
 
 
 

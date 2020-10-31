@@ -1,6 +1,6 @@
 # Sample Test
 
-[Last Section](./6.md) | [Sample Question Answers](./a.md)
+[Last Section](./9.md) | [Sample Question Answers](./a.md)
 
 ------
 

@@ -28,18 +28,29 @@ This exam is for Magento 2 Commerce developers with 6 to 12 months of experience
 ## Exam Information
 
 
-    Exam number: AD0-E707
-    Exam name: Adobe Certified Expert - Magento Commerce Order Management Developer
-    Certificate level: Certified Expert
-    Status: Active
-    Available languages: English
-    Based on Magento Commerce (2.3.x), but applicable to those using any version of Magento 2
-    Number of questions: 60
-    Formats: Multiple choice
-    Duration: 120 minutes
-    Delivery: Onsite/Online proctored (requires camera access) or test center proctored
-    Passing mark: 67%
-    Price: $295 USD
+**Exam number:** AD0-E707
+
+**Exam name:** Adobe Certified Expert - Magento Commerce Order Management Developer
+
+**Certificate level:** Certified Expert
+
+**Status:** Active
+
+**Available languages:** English
+
+**Version:** Based on Magento Commerce (2.3.x), but applicable to those using any version of Magento 2
+
+**Number of questions:** 60
+
+**Formats:** Multiple choice
+
+**Duration:** 120 minutes
+
+**Delivery:** Onsite/Online proctored (requires camera access) or test center proctored
+
+**Passing mark:** 67%
+
+**Price:** $295 USD
 
 
 ## Minimum Candidate Experience
