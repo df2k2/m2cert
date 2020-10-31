@@ -33,7 +33,7 @@ This exam is based on Magento Commerce v2.3
 
 **Exam number:** AD0-E704
 
-**Exam name:**Adobe Certified Master Magento Commerce Architect
+**Exam name:** Adobe Certified Master Magento Commerce Architect
 
 **Certificate level:** Certified Master
 
