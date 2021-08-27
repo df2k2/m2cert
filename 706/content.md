@@ -4,70 +4,8 @@
 
 -----
 
-Adobe AD0-E706 Adobe Certified Expert-Magento Commerce Cloud Developer ADOBE CERTIFIED EXPERT
-Photo
-Introduction
-
-This exam is for a Magento 2 developer/architect with 6 to 12 months of experience developing for Magento Commerce Cloud. Ideally the person taking this exam will have worked on at least two Magento Commerce Cloud implementations.
-
-This exam will validate the skills and knowledge needed required to deploy, test, troubleshoot, and operate in the Magento Cloud environment, including how to leverage Cloud platform features to enhance your project operations and performance. The exam will also validate the skills on troubleshooting and integrations.
-
-By passing this exam, the test taker will receive the Adobe Certified Expert-Magento Commerce Cloud Developer certification
-
-Adobe certification exams are developed with the participation of subject matter experts worldwide, following industry standards in developing fair and valid tests. Visit our FAQ page for more information.
-Photo
-
-Are you an Adobe partner?
-
-An official Adobe Certified Expert designation acknowledges your established expertise to help current and future business clients succeed!
-
-Partners receive a 33% discount on all certification exam pricing. Email spphelp@adobe.com to request your discount(s).
-
-Where to start? Check out the Partner Learner Journey from the Adobe Solution Partner Program today.
-Photo
-Exam Guide Sections:
-
-#### **Exam information**
-
-#### **Minimum candidate experience**
-
-#### **Exam objectives and scope**
-
-#### **Online sample test**
-
-#### **Preparing for the exam**
-
-
-Exam Information
-
-#### **Exam number: AD0-E706**
-
-#### **Exam name: Adobe Certified Expert-Magento Commerce Cloud Developer**
-
-#### **Certificate level: Certified Expert**
-
-#### **Status: Active**
-
-#### **Available languages: English**
-
-#### **Number of questions: 60**
-
-#### **Formats: Multiple choice**
-
-#### **Duration: 120 minutes**
-
-#### **Delivery: Onsite/Online proctored (requires camera access) or test center proctored**
-
-#### **Passing mark: 62%**
-
-#### **Price: $295 USD**
-
-
-Schedule your Exam
-Minimum Candidate Experience
-
-This exam is for a developer/architect with 6 to 12 months of experience developing for Magento Commerce Cloud. Ideally the person taking this exam will have worked on at least two Magento Commerce Cloud implementations.
 Exam Objectives and Scope
+
 ## [Section 1: Commerce Cloud Fundamentals (13%)](./1.md)
 
 ### **1.1**  Describe the features and functions of Magento Commerce Cloud
@@ -267,48 +205,4 @@ Exam Objectives and Scope
 #### **How to upsize the environment**
 
 
-Online Sample Test (not available)
-
-The sample test allows you to see the type and format of questions that you will encounter in the actual exam. There is no sign on needed. The results of the sample test are not stored, and do not predict your actual test results.
-Photo
-
-#### **Mark your answer in each question.**
-
-#### **Use the link “Send Comments for this Question” to provide specific feedback.**
-
-#### **Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.**
-
-#### **On the last question, click Submit Exam to submit all your answers.**
-
-#### **Complete the short survey. Click Submit.**
-
-#### **Click “Take Me to My Results” to view your sample test result details.**
-
-
-Preparing for the Exam
-
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
-
-Recommended Preparation:
-
-#### **No prerequisites**
-
-#### **We recommend taking the Magento Commerce Cloud for Developers course as a first step in preparing for this exam**
-
-#### **Hands-on experience with customization and implementation of Magento Commerce Cloud**
-
-#### **No hard-copy or online materials may be referenced during the exam**
-
-
-Questions and Inquiries?
-
-Please contact the Adobe Credential Program Customer Support team.
-
-The content of this exam guide is subject to changes and updates. Last update August 2020
-Appreciate
-
-Credits:
-
-Created with an image by Tomasz Zajda - "Alloy Car Wheel Closeup"
-Terms of Service Privacy Policy Report Abuse
 
