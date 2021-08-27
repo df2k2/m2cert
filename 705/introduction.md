@@ -2,17 +2,13 @@
 
 [Table of Contents](./) | [Exam Objectives and Scope](./content.md)
 
-**Adobe AD0-E706 Adobe Certified Expert-Magento Commerce Cloud Developer ADOBE CERTIFIED EXPERT**
+**Adobe AD0-E705 Adobe Certified Expert - Adobe Commerce JavaScript Developer**
 
 -----
 
+This exam will validate the skills and knowledge needed to develop new JavaScript modules for Magento 2 and customize existing ones. It will verify if the developer understands the core of Magento JavaScript framework, is able to use its components in a proper way, understands the right way of customizing existing components and adding a new one. Special attention in the exam paid to UI Components; the exam will validate if the developer understands their purpose, area of application, architecture and lifecycle.
 
-This exam is for a Magento 2 developer/architect with 6 to 12 months of experience developing for Magento Commerce Cloud. Ideally the person taking this exam will have worked on at least two Magento Commerce Cloud implementations.
-
-This exam will validate the skills and knowledge needed required to deploy, test, troubleshoot, and operate in the Magento Cloud environment, including how to leverage Cloud platform features to enhance your project operations and performance. The exam will also validate the skills on troubleshooting and integrations.
-
-By passing this exam, the test taker will receive the Adobe Certified Expert-Magento Commerce Cloud Developer certification
-
+This exam includes not only the in-browser JavaScript framework, but also the related server-side configuration for layout, customer data sections and adminhtml UI Components.
 
 
 
@@ -32,11 +28,11 @@ By passing this exam, the test taker will receive the Adobe Certified Expert-Mag
 
 ## Exam Information
 
-**Exam number: AD0-E706**
+**Exam number: AD0-E705**
 
-**Exam name:** Adobe Certified Expert-Magento Commerce Cloud Developer
+**Exam name:** Adobe Certified Expert - Adobe Commerce JavaScript Developer
 
-**Certificate level:** Certified Expert
+**Certificate level:** Certified Professional
 
 **Status:** Active
 
@@ -44,15 +40,15 @@ By passing this exam, the test taker will receive the Adobe Certified Expert-Mag
 
 **Number of questions:** 60
 
-**Formats:** Multiple choice
+**Formats:** Multiple choice and Multiple Select
 
 **Duration:** 120 minutes
 
 **Delivery:** Onsite/Online proctored (requires camera access) or test center proctored
 
-**Passing mark:** 62%
+**Passing mark:** Passing mark: 63% or 38/60 \[Please note: Percentage score would only be seen on older exam scores.\]
 
-**Price:** $295 USD
+**Price:** Price: $225 USD / $150 USD (India only)
 
 
 ## Minimum Candidate Experience
