@@ -4,7 +4,7 @@
 
 Magento 2.3.x / 2.4.x
 
-https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerce
+https://learning.adobe.com/certification.html?solution=Adobe%20Commerce
 
 -----
 
