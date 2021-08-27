@@ -15,9 +15,9 @@ https://learning.adobe.com/certification.html?solution=Adobe%20Commerce
 * **[AD0-E701 Adobe Certified Expert - Magento Commerce Front-End Developer](./701)**
 * **[AD0-E702 Adobe Certified Professional - Magento Commerce Developer](./702)**
 * **[AD0-E703 Adobe Certified Expert - Magento Commerce Developer](./703)**
-* INCOMPLETE **[AD0-E704 Adobe Certified Master - Magento Commerce Architect](./704)**
-* INCOMPLETE **[AD0-E705 Adobe Certified Expert - Magento Commerce JavaScript Developer](./705)**
-* INCOMPLETE **[AD0-E706 Adobe Certified Expert - Magento Commerce Cloud Developer](./706)**
+* **[AD0-E704 Adobe Certified Master - Magento Commerce Architect](./704)**
+* **[AD0-E705 Adobe Certified Expert - Magento Commerce JavaScript Developer](./705)**
+* **[AD0-E706 Adobe Certified Expert - Magento Commerce Cloud Developer](./706)**
 * INCOMPLETE **[AD0-E707 Adobe Certified Expert - Magento Commerce Order Management Developer](./707)**
 
 -----
