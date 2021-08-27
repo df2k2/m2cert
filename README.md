@@ -10,7 +10,8 @@ https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerc
 
 ## Contents
 
-* **[AD0-E700 Adobe Certified Expert - Magento Commerce Business Practitioner](./700)**
+* **\(Retiring on October 27, 2021\) [AD0-E700 Adobe Certified Expert - Magento Commerce Business Practitioner](./700)**
+* **\(Releasing Aug 30, 2021\) [AD0-E708 Adobe Certified Expert - Magento Commerce Business Practitioner](./708)**
 * **[AD0-E701 Adobe Certified Expert - Magento Commerce Front-End Developer](./701)**
 * **[AD0-E702 Adobe Certified Professional - Magento Commerce Developer](./702)**
 * **[AD0-E703 Adobe Certified Expert - Magento Commerce Developer](./703)**
@@ -21,13 +22,24 @@ https://learning.adobe.com/certification.html?solution=Adobe%20Magento%20Commerc
 
 -----
 
-### **[AD0-E700 Adobe Certified Expert Magento Commerce Business Practitioner](./700)**
+### **\(Retiring on October 27, 2021\) [AD0-E700 Adobe Certified Expert Magento Commerce Business Practitioner](./700)**
 
 [Source URL](https://spark.adobe.com/page/87jLctNB6KxM0/?page-mode=static)
 
 **Certification Benefits**
 
 An Adobe Certified Expert Magento Commerce Business Practitioner is an expert user of the Magento 2 Commerce platform. Drawing on a deep background in business and ecommerce, the Adobe Certified Expert Magento Commerce Business Practitioner can efficiently align business objectives with Magento 2 functionality, optimize use of native features, and avoid unnecessary customization. Whether as a merchant, a manager, a consultant, or an analyst, the Adobe Certified Expert Magento Commerce Business Practitioner knows how to make the best use of Magento 2 technology.
+
+
+
+### **\(Releasing Aug 30, 2021\) [AD0-E708 Adobe Certified Expert - Magento Commerce Business Practitioner](./708)**
+
+Source URL: https://spark.adobe.com/page/HhnUJo8R3YWg9/?page-mode=static
+
+**Certification Benefits**
+
+An Adobe Certified Expert Magento Commerce Business Practitioner is an expert user of the Magento 2 Commerce platform. Drawing on a deep background in business and ecommerce, the Adobe Certified Expert Magento Commerce Business Practitioner can efficiently align business objectives with Magento 2 functionality, optimize use of native features, and avoid unnecessary customization. Whether as a merchant, a manager, a consultant, or an analyst, the Adobe Certified Expert - Adobe Commerce Business Practitioner knows how to make the best use of Magento 2 technology.
+
 
 ----
 
